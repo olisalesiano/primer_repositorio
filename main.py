@@ -1,2 +1,3 @@
 # Esto es un proyecto de clase
-print("Algo")
+a = "Hola"
+print(a)
